@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiuhongyung
 - 👀 I’m interested in software developement and workout at the gym
-- 🌱 I’m currently learning Web Security in CUHK
+- 🌱 I’m currently learning Software Engineering and Web Security in CUHK
 - 💞️ I’m looking to collaborate on open-source software development projects
 - 📫 How to reach me hiuhongyung@gmail.com
 
